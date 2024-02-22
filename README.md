@@ -1,4 +1,4 @@
-## This is the Git tutorial
+## This is the  Amazing Git tutorial
 its by me
 u know been studying from different sources is very challenging to complete on time
 some changes  are needed 

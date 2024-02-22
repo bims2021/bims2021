@@ -1,5 +1,7 @@
-Learning git from ineuron ...feels good
+Learning git from ineuron's krish ...feels good
 i will complete atleast this today 
 Love data structures
 Numpy 
 Pandas
+plotly
+numba
